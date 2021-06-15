@@ -136,3 +136,10 @@ Processing by StaticController#about as HTML
 Completed 200 OK in 350ms (Views: 348.7ms | ActiveRecord: 0.0ms)
 
 
+Started GET "/hello_world" for 127.0.0.1 at 2021-06-15 14:14:21 -0500
+Processing by StaticController#about as HTML
+  Rendering static/about.html.erb within layouts/application
+  Rendered static/about.html.erb within layouts/application (1.2ms)
+Completed 200 OK in 361ms (Views: 355.7ms | ActiveRecord: 0.0ms)
+
+
